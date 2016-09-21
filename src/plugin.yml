@@ -1,0 +1,8 @@
+name: PeopleCraft-News
+autohr: minemax
+version: 1.0
+main: me.maxcode.PCNews.PCNews
+commands:
+     news:
+          usage:
+          default: op
